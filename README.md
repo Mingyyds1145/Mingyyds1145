@@ -2,7 +2,7 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingyyds1145&show_icons=true&theme=tokyonight)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingyyds1145&show_icons=true&theme=tokyonight)
 
 [![BiliBili](https://img.shields.io/badge/BiliBili-Ming_qwq-black)](https://space.bilibili.com/3546837476706334)
 
@@ -15,7 +15,7 @@
 
 </div>
 
-![凌波丽](image/凌波丽.jpg)
+![凌波丽](images/凌波丽.png)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=Ming
 
