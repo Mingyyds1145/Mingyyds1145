@@ -1,16 +1,22 @@
-## Hi there 👋
+<div id="title" align=center>
 
-<!--
-**Mingyyds1145/Mingyyds1145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Modern C++ template][github-sub-title:img]
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingyyds1145&show_icons=true&theme=tokyonight)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![BiliBili](https://img.shields.io/badge/BiliBili-Ming_qwq-black)](https://space.bilibili.com/3546837476706334)
+
+[![modern python](https://img.shields.io/badge/Code-Python-blue)](https://www.python.org) <br>
+[![java](https://img.shields.io/badge/%E6%83%B3%E5%AD%A6-Java-blue)](https://www.java.com/)
+
+![](https://img.shields.io/badge/讨厌-学习-yellow) 
+![](https://img.shields.io/badge/性格-内向-red) 
+![](https://img.shields.io/badge/爱好-跑步-red)
+
+</div>
+
+![凌波丽](image/凌波丽.jpg)
+
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=Ming
+
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=ForeverLove
