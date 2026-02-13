@@ -1,9 +1,5 @@
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingyyds1145&show_icons=true&theme=tokyonight)
-
 [![BiliBili](https://img.shields.io/badge/BiliBili-Ming_qwq-black)](https://space.bilibili.com/3546837476706334)
 
 [![modern python](https://img.shields.io/badge/Code-Python-blue)](https://www.python.org) <br>
