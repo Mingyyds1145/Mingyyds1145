@@ -5,10 +5,6 @@
 [![modern python](https://img.shields.io/badge/Code-Python-blue)](https://www.python.org) <br>
 [![java](https://img.shields.io/badge/%E6%83%B3%E5%AD%A6-Java-blue)](https://www.java.com/)
 
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/性格-内向-red) 
-![](https://img.shields.io/badge/爱好-跑步-red)
-
 </div>
 
 ![凌波丽](images/凌波丽.png)
