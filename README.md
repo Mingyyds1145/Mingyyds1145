@@ -19,6 +19,6 @@
     <img src="https://img.shields.io/badge/GitHub-Ming--QWQ520-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
-<p >
-  <img src="images/凌波丽.png" alt="凌波丽">
+<p align="center" >
+  <img src="images/凌波丽.png" alt="凌波丽" width=550 >
 </p>
