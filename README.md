@@ -1,14 +1,24 @@
-<div id="title" align=center>
+<h1 align="center">Hello I'm Ming-QWQ520</h1>
 
-[![BiliBili](https://img.shields.io/badge/BiliBili-Ming_qwq-black)](https://space.bilibili.com/3546837476706334)
+---
 
-[![modern python](https://img.shields.io/badge/Code-Python-blue)](https://www.python.org) <br>
-[![java](https://img.shields.io/badge/%E6%83%B3%E5%AD%A6-Java-blue)](https://www.java.com/)
+### My Repo
 
-</div>
+#### [Zephyr-Music](https://github.com/Ming-QWQ520/Zephyr-Music)
+> 一款轻量级的音乐播放器 / 音乐管理工具，专注于简洁与高效。
 
-![凌波丽](images/凌波丽.png)
+![GitHub Stars](https://img.shields.io/github/stars/Ming-QWQ520/Zephyr-Music?style=for-the-badge&logo=github&color=green)
+![GitHub forks](https://img.shields.io/github/forks/Ming-QWQ520/Zephyr-Music?style=for-the-badge&logo=github&color=blue)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=Ming
-
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=ForeverLove
+---
+<p align="center">
+  <a href="https://space.bilibili.com/3546837476706334">
+    <img src="https://img.shields.io/badge/BiliBili-Ming_qwq-black?style=for-the-badge&logo=bilibili" alt="BiliBili">
+  </a>
+  <a href="https://github.com/Ming-QWQ520">
+    <img src="https://img.shields.io/badge/GitHub-Ming--QWQ520-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
+<p >
+  <img src="images/凌波丽.png" alt="凌波丽">
+</p>
