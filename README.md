@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm Ming-QWQ520</h1>
+<h1 align="center">Hello I'm Ming</h1>
 
 ---
 
